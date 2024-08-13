@@ -23,7 +23,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       
       # @end locale config
-    url: /achievement.md
+    url: /achievement.html
   - titles:
       # @start locale config
       en      : &EN       Archive
