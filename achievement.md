@@ -1,3 +1,0 @@
-# Achievement page
-
-Hello World!
